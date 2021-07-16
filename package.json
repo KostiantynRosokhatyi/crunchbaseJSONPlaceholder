@@ -1,0 +1,20 @@
+{
+  "name": "crunchbasejsondata",
+  "version": "1.0.0",
+  "description": "it's a REST API fro crunchbse project",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "keywords": [
+    "JSON",
+    "server",
+    "REST",
+    "API"
+  ],
+  "author": "Kostiantyn Rosokhatyi <rosokhatyi.kostiantyn@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
