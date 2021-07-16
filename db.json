@@ -23,14 +23,6 @@
       "text": " Research investors and monitor competitors all in one place ",
       "description": "investors",
       "linkTo": "https://about.crunchbase.com/find-investors/"
-    },
-    {
-      "id": 4,
-      "src": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_500,w_500,f_auto,q_auto:eco,dpr_1/v1551315579/hompage-mktg-Research_yvssll.svg",
-      "header": "Conduct market research",
-      "text": " Find emerging trends and analyze changes across industries ",
-      "description": "market research",
-      "linkTo": "https://about.crunchbase.com/market-research/"
     }
   ],
   "suggestions": [
@@ -53,26 +45,6 @@
       "id": 4,
       "src": "https://i.ibb.co/XXQNnY4/right-arrow.png",
       "text": "Acquisitions"
-    },
-    {
-      "id": 5,
-      "src": "https://i.ibb.co/4K1fvzk/user.png",
-      "text": "People"
-    },
-    {
-      "id": 6,
-      "src": "https://i.ibb.co/F5qFP1w/event.png",
-      "text": "Events"
-    },
-    {
-      "id": 7,
-      "src": "https://i.ibb.co/Lr2Z4hS/graduation-hat.png",
-      "text": "Schools"
-    },
-    {
-      "id": 8,
-      "src": "https://i.ibb.co/cY3sYhp/compass.png",
-      "text": "Hubs"
     }
   ],
   "insights": [
@@ -96,13 +68,6 @@
       "link": "",
       "text": " The Market Minute: This Is Why You Keep Hearing About PIPE Deals With SPACs ",
       "author": " Sophia Kunthara  "
-    },
-    {
-      "id": 4,
-      "data": " June 30, 2021 ",
-      "link": "",
-      "text": " Kikoff Launches With $42.5M In Funding To Help Users Build Credit  ",
-      "author": " Sophia Kunthara "
     }
   ],
   "featuredRounds": [
@@ -137,54 +102,6 @@
       "transactionName": "Series C - Rohlik",
       "moneyRaised": "€100M",
       "leadInvestors": "Index Ventures"
-    },
-    {
-      "id": 5,
-      "src": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_18,w_18,f_auto,b_white,q_auto:eco,dpr_1/e8ymtiil8bgpldlayen5",
-      "organizationName": "Articulate",
-      "transactionName": "Series A - Articulate",
-      "moneyRaised": "$1.5B",
-      "leadInvestors": "Newtown Partners"
-    },
-    {
-      "id": 6,
-      "src": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_18,w_18,f_auto,b_white,q_auto:eco,dpr_1/scswfiqatftudtwhocet",
-      "organizationName": "Versa Networks",
-      "transactionName": "Series D - Versa Networks",
-      "moneyRaised": "$84M",
-      "leadInvestors": "Princeville Capital, RPS Ventures"
-    },
-    {
-      "id": 7,
-      "src": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_18,w_18,f_auto,b_white,q_auto:eco,dpr_1/unf8lbgcvxbky4syoxpy",
-      "organizationName": "Dream Games",
-      "transactionName": "Series B - Dream Games",
-      "moneyRaised": "$155M",
-      "leadInvestors": "Index Ventures, Makers Fund"
-    },
-    {
-      "id": 8,
-      "src": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_18,w_18,f_auto,b_white,q_auto:eco,dpr_1/ejnh9skoljhulwsfou7m",
-      "organizationName": "Dream Games",
-      "transactionName": "Series B - Dream Games",
-      "moneyRaised": "$150M",
-      "leadInvestors": "Altimeter, Andreessen Horowitz, Sequoia Capital"
-    },
-    {
-      "id": 9,
-      "src": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_18,w_18,f_auto,b_white,q_auto:eco,dpr_1/batbmm3acjiazii3kuu1",
-      "organizationName": "Noname Security",
-      "transactionName": "Series B - Noname Security",
-      "moneyRaised": "$60M",
-      "leadInvestors": "Insight Partners"
-    },
-    {
-      "id": 10,
-      "src": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_18,w_18,f_auto,b_white,q_auto:eco,dpr_1/qth4i1r3t8ayj5p59ifx",
-      "organizationName": "FabricNano",
-      "transactionName": "Series A - FabricNano",
-      "moneyRaised": "$12.5M",
-      "leadInvestors": "Atomico"
     }
   ],
   "news": [
@@ -213,21 +130,6 @@
       "id": 4,
       "newsText": " Rescue Teams Pause Search Over Building Structure Concern ",
       "newsAuthor": "- New York Times (NYT)"
-    },
-    {
-      "id": 5,
-      "newsText": " The Maps Our Brains Create ",
-      "newsAuthor": "- New York Times (NYT)"
-    },
-    {
-      "id": 6,
-      "newsText": " Connect your HomePod Mini speakers with Apple TV for an instant surround-sound setup ",
-      "newsAuthor": "- CNet"
-    },
-    {
-      "id": 7,
-      "newsText": " Robinhood files to go public ",
-      "newsAuthor": "- CNet"
     }
   ],
   "statistic": [
@@ -279,54 +181,6 @@
       "srcAcquirer": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_18,w_18,f_auto,b_white,q_auto:eco,dpr_1/v1505715437/jcf8a1pno4imjr3anwoo.png",
       "nameAcquirer": "Barracuda Networks",
       "price": "$1.2B"
-    },
-    {
-      "id": 5,
-      "srcAcquiree": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_18,w_18,f_auto,b_white,q_auto:eco,dpr_1/whedzg6reck9qtgobmdj",
-      "nameAcquiree": "Dynamixyz",
-      "srcAcquirer": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_18,w_18,f_auto,b_white,q_auto:eco,dpr_1/v1397198286/0adbc39f4f324bad73b51e72d985fce7.png",
-      "nameAcquirer": "Take-Two Interactive",
-      "price": "-"
-    },
-    {
-      "id": 6,
-      "srcAcquiree": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_18,w_18,f_auto,b_white,q_auto:eco,dpr_1/v1442242133/ggpzaga4wdrll5pjthsh.png",
-      "nameAcquiree": "Teamable",
-      "srcAcquirer": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_18,w_18,f_auto,b_white,q_auto:eco,dpr_1/vo5jr650jhe1nwkxbc1g",
-      "nameAcquirer": "TopFunnel",
-      "price": "-"
-    },
-    {
-      "id": 7,
-      "srcAcquiree": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_18,w_18,f_auto,b_white,q_auto:eco,dpr_1/a9tqw3dz0rchk1detmmi",
-      "nameAcquiree": "Zerto",
-      "srcAcquirer": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_18,w_18,f_auto,b_white,q_auto:eco,dpr_1/v1484744930/gqzuzspwzqsnvztpjuxb.png",
-      "nameAcquirer": "Hewlett Packard Enterprise",
-      "price": "$374M"
-    },
-    {
-      "id": 8,
-      "srcAcquiree": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_18,w_18,f_auto,b_white,q_auto:eco,dpr_1/csegirwxybbgwzaxyqdg",
-      "nameAcquiree": "Axxence Slovakia",
-      "srcAcquirer": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_18,w_18,f_auto,b_white,q_auto:eco,dpr_1/v1507120627/hdwuvp6wowtpl34gfpud.png",
-      "nameAcquirer": "capiton",
-      "price": "-"
-    },
-    {
-      "id": 9,
-      "srcAcquiree": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_18,w_18,f_auto,b_white,q_auto:eco,dpr_1/bie5bjqndjkuechhagab",
-      "nameAcquiree": "Springserve",
-      "srcAcquirer": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_18,w_18,f_auto,b_white,q_auto:eco,dpr_1/jbsikvveeb2rev5g3aau",
-      "nameAcquirer": "Magnite",
-      "price": "$31M"
-    },
-    {
-      "id": 10,
-      "srcAcquiree": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_18,w_18,f_auto,b_white,q_auto:eco,dpr_1/l4kyjg0qzwlxozyagpyr",
-      "nameAcquiree": "Fetch Robotics",
-      "srcAcquirer": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_18,w_18,f_auto,b_white,q_auto:eco,dpr_1/v1480421735/uoc7igz4tmwxxviq4rj7.png",
-      "nameAcquirer": "Zebra Technologies",
-      "price": "$290M"
     }
   ],
   "upcomingEvents": [
@@ -357,34 +211,6 @@
       "src": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_18,w_18,f_auto,b_white,q_auto:eco,dpr_1/l1aimzuvuk9epioykdvn",
       "eventName": "Deep Learning Summit, Toronto 2020",
       "location": "Toronto, Ontario, Canada"
-    },
-    {
-      "id": 5,
-      "data": "Oct 19, 2021",
-      "src": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_18,w_18,f_auto,b_white,q_auto:eco,dpr_1/fxiknijzrq4ctrrdwipo",
-      "eventName": " NY Empire FinTech Conference 2021   ",
-      "location": " New York, New York, Canada"
-    },
-    {
-      "id": 6,
-      "data": "Oct 19, 2021",
-      "src": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_18,w_18,f_auto,b_white,q_auto:eco,dpr_1/afb0e71kjirtl84knqf6",
-      "eventName": "Ontario, Toronto, Canada",
-      "location": " Region Metropolitana"
-    },
-    {
-      "id": 7,
-      "data": "Nov 11, 2021",
-      "src": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_18,w_18,f_auto,b_white,q_auto:eco,dpr_1/gdrzioghiw8fquqcwtkw",
-      "eventName": "  Business Tech Expo  ",
-      "location": "Ontario, Toronto, Canada"
-    },
-    {
-      "id": 9,
-      "data": "Oct 19, 2021",
-      "src": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_18,w_18,f_auto,b_white,q_auto:eco,dpr_1/l1aimzuvuk9epioykdvn",
-      "eventName": " AI In Finance Summit Toronto 2020 ",
-      "location": " Austin, Texas, United States"
     }
   ],
   "trendingProfileData": [
@@ -407,36 +233,6 @@
       "id": "04.",
       "src": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_25,w_25,f_auto,b_white,q_auto:eco,dpr_1/u83vfrv2qdgpuuifrwct",
       "name": "cure.fit"
-    },
-    {
-      "id": "05.",
-      "src": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_25,w_25,f_auto,b_white,q_auto:eco,dpr_1/m4kky4bzju6rqapc2uvq",
-      "name": "TestGorilla"
-    },
-    {
-      "id": "06.",
-      "src": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_25,w_25,f_auto,b_white,q_auto:eco,dpr_1/jodecxpkufwo2uchoqnk",
-      "name": "Here"
-    },
-    {
-      "id": "07.",
-      "src": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_25,w_25,f_auto,b_white,q_auto:eco,dpr_1/mvwpp8lnfday9v2zznag",
-      "name": "DotPe"
-    },
-    {
-      "id": "08.",
-      "src": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_25,w_25,f_auto,b_white,q_auto:eco,dpr_1/efm1wppehzgboobx9cbq",
-      "name": "CoinSwitch Kuber"
-    },
-    {
-      "id": "09.",
-      "src": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_25,w_25,f_auto,b_white,q_auto:eco,dpr_1/n3bbisckibe46vrpgzj5",
-      "name": "Binance"
-    },
-    {
-      "id": "10.",
-      "src": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_25,w_25,f_auto,b_white,q_auto:eco,dpr_1/pptmowu3w3kspfkcnoms",
-      "name": "Celonis"
     }
   ],
   "searchesData": [
@@ -459,11 +255,6 @@
       "id": 4,
       "name": " Coronavirus Innovation Startups - in collab with StartupBlink ",
       "entries": "48"
-    },
-    {
-      "id": 5,
-      "name": " Hot Tech Companies Globally ",
-      "entries": "1750"
     }
   ]
 }
